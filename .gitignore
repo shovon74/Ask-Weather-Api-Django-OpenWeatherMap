@@ -1,0 +1,4 @@
+######Files To Be Ignored ########
+.pyc
+weatherapp/__pycache__/admin.cpython-36.pyc
+weatherapp/__pycache__/views.cpython-36.pyc
