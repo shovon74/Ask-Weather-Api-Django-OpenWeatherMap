@@ -3,6 +3,10 @@
 
 This web app is capable of showing current temperature and a little description of the present weather. This is an integration of OpenWeatherMapApi using Django.
 
+## Screenshots
+
+![Screenshot](https://user-images.githubusercontent.com/25238920/180603717-f19e0559-e2bb-4a41-8afe-6543664d169a.png)
+
 ## Requirments
 
 The following are required to run this site in development
@@ -10,9 +14,6 @@ The following are required to run this site in development
 * [Python](https://www.python.org/downloads/release/python-374/)
 * [Django](https://docs.djangoproject.com/en/4.0/releases/2.2/)
 * [OpenWeatherMapApi](https://openweathermap.org/)
-
-
-
 
 ## Run Locally
 [Install Python Locally](https://realpython.com/installing-python/) 
